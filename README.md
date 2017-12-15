@@ -1,6 +1,14 @@
-# FirestoreDemoTraversy
+# Firestore Demo Traversy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
+
+## Features
+
+* [Angular](https://angular.io/)
+* [Angular CLI](https://cli.angular.io/)
+* [Typescript](http://www.typescriptlang.org/)
+* [Materialize-CSS](http://materializecss.com/)
+* [Firestore](https://firebase.google.com/)
 
 ## Development server
 
